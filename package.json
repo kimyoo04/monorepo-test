@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "app:start": "pnpm -F @yoojacha/app start"
+    "app:start": "pnpm -F @yoojacha/app start",
+    "sdk:start": "pnpm -F @yoojacha/sdk start"
   },
   "keywords": [],
   "author": "",
