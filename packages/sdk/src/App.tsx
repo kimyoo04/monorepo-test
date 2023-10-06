@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Counting } from "@yoojacha/ui";
@@ -19,9 +18,9 @@ function App() {
         >
           Learn React
         </a>
-      </header>
 
-      <Counting />
+        <Counting />
+      </header>
     </div>
   );
 }
