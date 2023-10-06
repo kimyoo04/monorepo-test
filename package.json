@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "app:start": "pnpm -F @yoojacha/app start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
