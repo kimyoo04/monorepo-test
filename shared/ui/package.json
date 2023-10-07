@@ -13,6 +13,8 @@
     "@types/react-dom": "18.2.7",
     "@typescript-eslint/eslint-plugin": "6.0.0",
     "@typescript-eslint/parser": "6.0.0",
+    "@yoojacha/configs-ts-vite": "workspace:*",
+    "@yoojacha/configs-eslint-ts": "workspace:*",
     "eslint": "8.45.0",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.3",

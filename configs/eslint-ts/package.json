@@ -1,5 +1,5 @@
 {
-    "name": "@flexity/configs-eslint-ts",
+    "name": "@yoojacha/configs-eslint-ts",
     "version": "1.0.0",
     "main": "index.js",
     "devDependencies": {

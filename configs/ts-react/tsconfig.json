@@ -1,6 +1,0 @@
-{
-  "extends": "@flexity/configs-ts",
-  "compilerOptions": {
-    "lib": ["esnext", "dom", "dom.iterable"]
-  }
-}
